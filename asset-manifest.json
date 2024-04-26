@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eyecoon/static/css/main.4fd389f4.css",
+    "main.js": "/eyecoon/static/js/main.ba8741b5.js",
+    "static/media/home-banner-image.png": "/eyecoon/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/eyecoon/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/WhatsApp Image 2024-04-25 at 10.10.41 PM.jpeg": "/eyecoon/static/media/WhatsApp Image 2024-04-25 at 10.10.41 PM.2b1dd4ab6fd731620897.jpeg",
+    "static/media/WhatsApp Image 2024-04-25 at 9.59.32 PM.jpeg": "/eyecoon/static/media/WhatsApp Image 2024-04-25 at 9.59.32 PM.75a2474cf78250b6687b.jpeg",
+    "static/media/WhatsApp Image 2024-04-25 at 9.59.31 PM.jpeg": "/eyecoon/static/media/WhatsApp Image 2024-04-25 at 9.59.31 PM.619cfbb4fcd08aad087a.jpeg",
+    "static/media/WhatsApp Image 2024-04-25 at 9.59.31 PM (1).jpeg": "/eyecoon/static/media/WhatsApp Image 2024-04-25 at 9.59.31 PM (1).8923b18dbe55283f1bab.jpeg",
+    "static/media/WhatsApp Image 2024-04-26 at 9.58.59 PM.jpeg": "/eyecoon/static/media/WhatsApp Image 2024-04-26 at 9.58.59 PM.816229ef20212c7da654.jpeg",
+    "static/media/home-banner-background.png": "/eyecoon/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/WhatsApp Image 2024-04-26 at 9.53.48 PM.jpeg": "/eyecoon/static/media/WhatsApp Image 2024-04-26 at 9.53.48 PM.d08739b1462ece979557.jpeg",
+    "static/media/Logo.svg": "/eyecoon/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/eyecoon/index.html",
+    "main.4fd389f4.css.map": "/eyecoon/static/css/main.4fd389f4.css.map",
+    "main.ba8741b5.js.map": "/eyecoon/static/js/main.ba8741b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd389f4.css",
+    "static/js/main.ba8741b5.js"
+  ]
+}
