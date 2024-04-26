@@ -37,13 +37,13 @@ const Navbar = () => {
         <img src={bird} alt="" id="bird" />
       </div>
       <div className="navbar-links-container ">
-        <Link to="/">
+        <Link to="/" style={{ textDecoration: "none" }}>
           <button className="primary-button" style={{ marginRight: "1px" }}>
             {" "}
             Home
           </button>
         </Link>
-        <Link to="/about">
+        <Link to="/about" style={{ textDecoration: "none" }}>
           <button className="primary-button" style={{ marginRight: "5px" }}>
             {" "}
             About Us
